@@ -1,5 +1,11 @@
 # AladinM3UParserService — Technical Documentation (V4.0)
 
+## Screenshots
+<p align="center">
+  <img src="screenshots/app_main.png" width="350" title="Main Screen">
+  <img src="screenshots/app_details.png" width="350" title="Detail Panel">
+</p>
+
 ## 0. Overview
 This service is a high-performance M3U playlist engine built with Flutter. It iterates through raw M3U data to extract, clean, and categorize content into a structured data model. The parser is designed for data mining and advanced metadata enrichment.
 
