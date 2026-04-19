@@ -4,6 +4,7 @@
 <p align="center">
   <img src="screenshots/app_main.png" width="350" title="Main Screen">
   <img src="screenshots/app_details.png" width="350" title="Detail Panel">
+  <img src="screenshots/app_details_2.png" width="350" title="Detail Panel">
 </p>
 
 ## 0. Overview
