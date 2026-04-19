@@ -22,6 +22,9 @@ This service is a high-performance M3U playlist engine built with Flutter. It it
 
 ---
 
+## 0.5 DOWNLOAD APK
+[**Download Latest APK**](https://github.com/tezalaaddin/aladin-m3u-parser-pro/releases/latest)
+
 ## 1. Hybrid Metadata Extraction Strategy
 The engine utilizes a **Hybrid Source** approach. Instead of scanning only the visible title, it combines the `tvg-name` attribute and the raw display name.
 - **Logic:** `metaSource = "$tvgNameAttr | $rawNameOriginal"`

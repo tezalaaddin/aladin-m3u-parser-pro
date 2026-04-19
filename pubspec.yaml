@@ -22,6 +22,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  flutter_launcher_icons: "^0.13.1"
 
 flutter:
   uses-material-design: true
@@ -29,3 +30,10 @@ flutter:
   assets:
     - assets/logo.png
     - assets/aladin_icon_logo.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/aladin_icon_logo.png" # ikon dosyanın yolu
+  adaptive_icon_background: "#0F172A" # Uygulama temanla uyumlu koyu arka plan
+  adaptive_icon_foreground: "assets/aladin_icon_logo.png"
